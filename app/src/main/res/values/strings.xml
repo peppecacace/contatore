@@ -4,4 +4,6 @@
     <string name="Aumenta">+</string>
     <string name="quanti_conteggi">premere pulsanti per contare</string>
     <string name="valore"> il contatore vale </string>
+    <string name="Bottone_Azzeramento">Azzera</string>
+    <string name="Raddoppio">Raddoppia</string>
 </resources>
