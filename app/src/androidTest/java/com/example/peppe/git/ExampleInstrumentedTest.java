@@ -23,4 +23,4 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.peppe.git", appContext.getPackageName());
     }
-}/////////////////////////////
+}////////////////
